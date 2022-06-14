@@ -1,6 +1,5 @@
 # 2022-AI-Final-Project-Hex-Game
----
-# Purpose
+## Purpose
 
 implementing minmax algorithm and reinforcement learning on hex game
 
