@@ -6,6 +6,4 @@ Implementing Minimax algorithm and Reinforcement Learning on hex game
 
 [Documentation Lind](https://github.com/shflte/RL_on_Hex/blob/main/HexGameReport.pdf)
 
-board 11*11 model on google drive
-
-[AI final project - Google Drive](https://drive.google.com/drive/folders/1X6yjHwYIw9j9pW6sNkpBtUJVEpHmB_70?usp=sharing)
+[Model for board size 11*11 on google drive](https://drive.google.com/drive/folders/1X6yjHwYIw9j9pW6sNkpBtUJVEpHmB_70?usp=sharing)
