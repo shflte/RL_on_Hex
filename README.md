@@ -1,7 +1,8 @@
-# 2022-AI-Final-Project-Hex-Game
-## Purpose
+# Reinforcement Learning on Hex Game
 
-implementing minmax algorithm and reinforcement learning on hex game
+Implementing Minimax algorithm and Reinforcement Learning on hex game
+
+<img src="https://github.com/shflte/verilog_tetris/blob/master/img/snapshot.jpeg" alt="thumbnail" style="display:block; margin: 0 auto;"/>
 
 board 11*11 model on google drive
 
